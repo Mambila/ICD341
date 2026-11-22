@@ -1,0 +1,9 @@
+pyproject.toml
+my_stats/__init__.py
+my_stats/stats_tools.py
+my_stats.egg-info/PKG-INFO
+my_stats.egg-info/SOURCES.txt
+my_stats.egg-info/dependency_links.txt
+my_stats.egg-info/requires.txt
+my_stats.egg-info/top_level.txt
+tests/test_stats_tools.py

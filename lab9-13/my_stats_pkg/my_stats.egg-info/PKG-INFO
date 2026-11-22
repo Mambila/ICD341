@@ -1,0 +1,6 @@
+Metadata-Version: 2.4
+Name: my_stats
+Version: 0.1.0
+Summary: Minimal statistical computing package for ICD341
+Requires-Dist: numpy
+Requires-Dist: scikit-learn
